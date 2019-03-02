@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  top: 0;
+  min-height: 100vh;
+}
+ul {
+  padding: 0;
+}
+li {
+  display: inline;
+}
+
+#googlelogo {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+.mainarea {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+}
+#searchbar {
+  text-align: center;
+  margin-top: 25px;
+}
+input[type="text"] {
+  width: 485px;
+  height: 31px;
+}
+input[type="submit"] {
+
+}
+#buttons {
+  text-align: center;
+  margin-top: 25px;
+}
+#ltnav {
+  float: left;
+}
+#rtnav {
+  float: right
+ }
+#rlnav {
+  float: left
+}
+#rbnav {
+  float: right
+ }
+#lbnav {
+  float: left
+}
+.topnav {
+  padding-right: 15px;
+}
+.bottomnav {
+  padding-right: 15px;
+}
